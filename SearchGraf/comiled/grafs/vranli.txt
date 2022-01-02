@@ -1,0 +1,6 @@
+Node[;Path[;Path[;Path]]]
+1 Node
+x Paths
+
+Node = X,Y,Name
+Path = X,Y,Rank
